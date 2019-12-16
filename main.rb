@@ -69,5 +69,6 @@ shop.stock("Bananas")
 shop.remove_product("Bananas")
 shop.show_products
 p shop.id
+p shop.id
 p shop.name
 
